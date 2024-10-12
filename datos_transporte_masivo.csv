@@ -1,0 +1,6 @@
+estacion,Pasajeros,NivelCongestion,TiempoEspera,DistanciaProxima
+Estacion A,500,3,5,2.0
+Estacion B,1500,7,10,3.5
+Estacion C,300,2,3,1.2
+Estacion D,1200,6,8,2.8
+Estacion E,900,5,6,3.1
